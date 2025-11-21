@@ -2,7 +2,7 @@ import React from "react";
 
 const Nav = () => {
     return (
-        <nav aria-label="Primary">
+        <nav className="site-nav" aria-label="Primary">
             <ul>
                 <li><a href="/">Home</a></li>
                 <li><a href="/about">About</a></li>
